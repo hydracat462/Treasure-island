@@ -38,4 +38,4 @@ Each decision either brings them closer to the treasure or leads to an unexpecte
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/treasure-island-game.git
+   git clone https://github.com/hydracat462/treasure-island-game.git
